@@ -1,0 +1,195 @@
+body{
+    background-color: #f2f2f2;
+}
+ul{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+.container{
+    width: 1000px;
+}
+.header{
+    width:1000px;
+    height: 150px;
+}
+.headertop{
+    width: 1000px;
+    height: 110px;
+}
+.logo{
+    margin-top:30px;
+    width:200px;
+    height:51px;
+    float: left;
+}
+.sogen{
+    width:600px;
+    height:110px;
+    font-size:24px;
+    font-weight:bold;
+    line-height: 110px;
+    float: left;
+}
+.tel{
+    margin-top:30px;
+    width:200px;
+    height:52px;
+    float: left;
+}
+.nav{
+    width: 1000px;
+    height: 40px;
+    background-color: red;
+    line-height: 40px;
+}
+.nav li{
+    float: left;
+    width: 85px;
+}
+.nav a{
+    color: white;
+    font-weight: bold;
+}
+.nav a:hover{
+    background-color: black;
+    display: block;
+}
+.content{
+    margin-top:5px;
+    height: 1550px;
+}
+.course{
+    margin-top: 5px;
+}
+.course img{
+    border:1px #d4d4d4 solid;
+}
+.massageLeft {
+    width: 495px;
+    float: left;
+    background-color: white;
+    border: solid 1px #d4d4d4;
+    height: 210px;
+    margin-top: 10px;
+}
+.top{
+    float: left;
+    width: 495px;
+    border-bottom: solid 1px #d4d4d4;
+    height: 30px;
+}
+.topleft{
+    float: left;
+    color: red;
+    font-weight: bold;
+    line-height: 30px;
+    margin-left: 10px;
+}
+.topright{
+    float: right;
+    line-height: 30px;
+    margin-right: 10px;
+}
+.picture{
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.point{
+    list-style-image: url("images/li2.gif");
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.point li{
+    text-align: left;
+}
+.massageRight{
+    width: 495px;
+    float: right;
+    background-color: white;
+    border: solid 1px #d4d4d4;
+    height: 210px;
+    margin-top: 10px;
+}
+.photoes{
+    width: 1000px;
+    float: left;
+    background-color: white;
+    border: solid 1px #d4d4d4;
+    margin-top: 10px;
+    height: auto;
+}
+.photoestop{
+    float: left;
+    width: 1000px;
+    border-bottom: solid 1px #d4d4d4;
+    height: 30px;
+}
+.photography img{
+    height: 120px;
+    width: 150px;
+    float: left;
+    margin: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.chains{
+    background-color: #f2f2f2;
+    width: 1000px;
+    float: left;
+    margin-top: 10px;
+    height: 30px;
+}
+.title{
+    color: red;
+    border-bottom: double #d4d4d4 2px;
+}
+.teachers img{
+    width: 150px;
+    height:200px;
+    float: left;
+    margin: 8px;
+}
+.link img{
+    width: 150px;
+    height:60px;
+    float: left;
+    margin:7px;
+    border: solid 1px #d4d4d4;
+}
+.topright a{
+    color:grey;
+}
+.topright a:hover{
+    color: blue;
+}
+
+.point a{
+    color: #000;
+}
+.point a:hover{
+    color: red;
+}
+.foot{
+    width: 1000px;
+}
+.footline{
+    width: 1000px;
+    height: 10px;
+    background-color: red;
+    line-height: 40px;
+    margin-top: 280px;
+}
+.footline p{
+    font-size: small;
+    font-weight: bold;
+    font-family: 华文楷体, serif;
+    margin-top: 10px;
+}
